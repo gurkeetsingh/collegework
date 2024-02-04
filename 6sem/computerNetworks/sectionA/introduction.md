@@ -52,3 +52,6 @@ for more info visit:
 ## Basic components of a network
 
 A computer network is comprised of various components that work together to enable communication and data exchange. These components can be broadly categorized into hardware devices, software components, and network protocols. The server, client, peer, transmission medium, and connecting devices are the hardware components. The operating system and protocols are software components. Here's an overview of the key components of a computer network:
+
+- follow this [link](https://www.prepbytes.com/blog/computer-network/components-of-computer-network/) for the components of a network
+- to understand the components with the diagram click [here](https://www.knowcomputing.com/computer-network-components-and-their-functions/)
