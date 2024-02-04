@@ -1,6 +1,8 @@
 # Introduction
 
-A computer network is a collection of interconnected computing devices and systems that communicate with each other to share resources, information, and services. The primary purpose of a computer network is to facilitate communication and data exchange between different devices, allowing them to work together to perform various tasks and share resources efficiently. This interconnected system enables users to access and share data, applications, and other resources regardless of their physical location.
+## Network defination
+
+A computer network is a collection of interconnected computing devices and systems that communicate with each other to share resources, information, and services. The primary purpose of a computer network is to facilitate communication and data exchange between different devices, allowing them to work together to perform various tasks and share resources efficiently. This interconnected system enables users to access and share data, applications, and other resources regardless of their physical location. These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies.
 
 Key components and concepts in computer networks include:
 
@@ -41,3 +43,12 @@ Internet:
 - The Internet is a global network that connects millions of smaller networks worldwide. It uses a standardized set of protocols to enable communication and data exchange on a global scale.
 
 Computer networks can vary in size and scale, ranging from small local area networks (LANs) within a single building to vast wide area networks (WANs) connecting geographically dispersed locations. The design and implementation of a network depend on factors like the intended use, size, and requirements of the connected devices.
+
+for more info visit:
+
+- [amazon website](https://aws.amazon.com/what-is/computer-networking/)
+- [spice works](https://www.spiceworks.com/tech/networking/articles/what-is-a-computer-network/)
+
+## Basic components of a network
+
+A computer network is comprised of various components that work together to enable communication and data exchange. These components can be broadly categorized into hardware devices, software components, and network protocols. The server, client, peer, transmission medium, and connecting devices are the hardware components. The operating system and protocols are software components. Here's an overview of the key components of a computer network:
